@@ -1,5 +1,5 @@
 {
-  "name": "meteorjs-dev",
+  "name": "meteor-airbnb-search",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -14,6 +14,7 @@
     "bootswatch": "^3.3.7",
     "faker": "^4.1.0",
     "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
     "meteor-node-stubs": "~0.2.4",
     "simpl-schema": "^0.2.2"
   },
